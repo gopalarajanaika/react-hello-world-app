@@ -1,0 +1,25 @@
+nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 5px 15px;
+   background-color: #8bc34a;
+   color: #fff;
+   h1{
+       margin: 0;
+   }
+
+   ul{
+       list-style: none;
+       padding: 0px;
+       display: flex;
+       margin: 0;
+    li{
+      a{
+          padding: 0px 10px;
+          text-decoration: none;
+          color: #fff;
+      }  
+    }
+    }
+}
